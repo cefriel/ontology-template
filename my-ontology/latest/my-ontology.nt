@@ -1,16 +1,16 @@
-<https:/my-ontology.com> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
-<https:/my-ontology.com> <http://www.w3.org/2002/07/owl#versionIRI> <https:/my-ontology.com/1.0.0> .
-<https:/my-ontology.com> <http://purl.org/dc/terms/contributor> "My Contributor (My Organisation)"@en .
-<https:/my-ontology.com> <http://purl.org/dc/terms/creator> "Mario Scrocca (Cefriel)"@en .
-<https:/my-ontology.com> <http://purl.org/dc/terms/description> "My Ontology for my project."@en .
-<https:/my-ontology.com> <http://purl.org/dc/terms/license> <https://creativecommons.org/licenses/by/4.0/> .
-<https:/my-ontology.com> <http://purl.org/dc/terms/publisher> "Cefriel"@en .
-<https:/my-ontology.com> <http://purl.org/dc/terms/title> "My Ontology"@en .
-<https:/my-ontology.com> <http://purl.org/ontology/bibo/status> "Published Ontology"@en .
-<https:/my-ontology.com> <http://www.w3.org/2000/01/rdf-schema#comment> "My Ontology for my project." .
-<https:/my-ontology.com> <http://www.w3.org/2000/01/rdf-schema#label> "My Ontology" .
-<https:/my-ontology.com> <http://www.w3.org/2002/07/owl#versionInfo> "1.0.0"@en .
-<https:/my-ontology.com> <https://schema.org/funding> <https://doi.org/CORDIS_DOI> .
+<https://knowledge.c-innovationhub.com/my-ontology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+<https://knowledge.c-innovationhub.com/my-ontology> <http://www.w3.org/2002/07/owl#versionIRI> <https://knowledge.c-innovationhub.com/my-ontology/1.0.0> .
+<https://knowledge.c-innovationhub.com/my-ontology> <http://purl.org/dc/terms/contributor> "My Contributor (My Organisation)"@en .
+<https://knowledge.c-innovationhub.com/my-ontology> <http://purl.org/dc/terms/creator> "Mario Scrocca (Cefriel)"@en .
+<https://knowledge.c-innovationhub.com/my-ontology> <http://purl.org/dc/terms/description> "My Ontology for my project."@en .
+<https://knowledge.c-innovationhub.com/my-ontology> <http://purl.org/dc/terms/license> <https://creativecommons.org/licenses/by/4.0/> .
+<https://knowledge.c-innovationhub.com/my-ontology> <http://purl.org/dc/terms/publisher> "Cefriel"@en .
+<https://knowledge.c-innovationhub.com/my-ontology> <http://purl.org/dc/terms/title> "My Ontology"@en .
+<https://knowledge.c-innovationhub.com/my-ontology> <http://purl.org/ontology/bibo/status> "Published Ontology"@en .
+<https://knowledge.c-innovationhub.com/my-ontology> <http://www.w3.org/2000/01/rdf-schema#comment> "My Ontology for my project." .
+<https://knowledge.c-innovationhub.com/my-ontology> <http://www.w3.org/2000/01/rdf-schema#label> "My Ontology" .
+<https://knowledge.c-innovationhub.com/my-ontology> <http://www.w3.org/2002/07/owl#versionInfo> "1.0.0"@en .
+<https://knowledge.c-innovationhub.com/my-ontology> <https://schema.org/funding> <https://doi.org/CORDIS_DOI> .
 # 
 # 
 # #################################################################
@@ -53,8 +53,8 @@
 # #################################################################
 # 
 # 
-# https:/my-ontology.com#exampleObjectProperty
-<https:/my-ontology.com#exampleObjectProperty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+# https://knowledge.c-innovationhub.com/my-ontology#exampleObjectProperty
+<https://knowledge.c-innovationhub.com/my-ontology#exampleObjectProperty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
 # 
 # 
 # 
@@ -65,8 +65,8 @@
 # #################################################################
 # 
 # 
-# https:/my-ontology.com#exampleDatatypeProperty
-<https:/my-ontology.com#exampleDatatypeProperty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+# https://knowledge.c-innovationhub.com/my-ontology#exampleDatatypeProperty
+<https://knowledge.c-innovationhub.com/my-ontology#exampleDatatypeProperty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
 # 
 # 
 # 
@@ -77,8 +77,8 @@
 # #################################################################
 # 
 # 
-# https:/my-ontology.com#exampleClass
-<https:/my-ontology.com#exampleClass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+# https://knowledge.c-innovationhub.com/my-ontology#exampleClass
+<https://knowledge.c-innovationhub.com/my-ontology#exampleClass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 # 
 # 
 # 
@@ -89,8 +89,8 @@
 # #################################################################
 # 
 # 
-# https:/my-ontology.com#exampleIndividual
-<https:/my-ontology.com#exampleIndividual> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
-<https:/my-ontology.com#exampleIndividual> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https:/my-ontology.com#exampleClass> .
+# https://knowledge.c-innovationhub.com/my-ontology#exampleIndividual
+<https://knowledge.c-innovationhub.com/my-ontology#exampleIndividual> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://knowledge.c-innovationhub.com/my-ontology#exampleIndividual> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://knowledge.c-innovationhub.com/my-ontology#exampleClass> .
 # 
 # Generated by the OWL API (version 5.1.18) https://github.com/owlcs/owlapi/

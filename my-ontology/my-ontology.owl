@@ -1,4 +1,4 @@
-@prefix : <https:/my-ontology.com#> .
+@prefix : <https://knowledge.c-innovationhub.com/my-ontology#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
@@ -6,10 +6,10 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
-@base <https:/my-ontology.com#> .
+@base <https://knowledge.c-innovationhub.com/my-ontology#> .
 
-<https:/my-ontology.com> rdf:type owl:Ontology ;
-                                                        owl:versionIRI <https:/my-ontology.com/1.0.0> ;
+<https://knowledge.c-innovationhub.com/my-ontology> rdf:type owl:Ontology ;
+                                                        owl:versionIRI <https://knowledge.c-innovationhub.com/my-ontology/1.0.0> ;
                                                         schema:funding <https://doi.org/CORDIS_DOI> ;
                                                         dct:creator "Mario Scrocca (Cefriel)"@en ;
                                                         dct:contributor "My Contributor (My Organisation)"@en ;

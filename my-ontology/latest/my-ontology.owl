@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="https:/my-ontology.com#"
-     xml:base="https:/my-ontology.com"
+<rdf:RDF xmlns="https://knowledge.c-innovationhub.com/my-ontology#"
+     xml:base="https://knowledge.c-innovationhub.com/my-ontology"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
@@ -9,8 +9,8 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:terms="http://purl.org/dc/terms/"
      xmlns:schema="https://schema.org/">
-    <owl:Ontology rdf:about="https:/my-ontology.com">
-        <owl:versionIRI rdf:resource="https:/my-ontology.com/1.0.0"/>
+    <owl:Ontology rdf:about="https://knowledge.c-innovationhub.com/my-ontology">
+        <owl:versionIRI rdf:resource="https://knowledge.c-innovationhub.com/my-ontology/1.0.0"/>
         <terms:contributor xml:lang="en">My Contributor (My Organisation)</terms:contributor>
         <terms:creator xml:lang="en">Mario Scrocca (Cefriel)</terms:creator>
         <terms:description xml:lang="en">My Ontology for my project.</terms:description>
@@ -106,10 +106,10 @@
     
 
 
-    <!-- https:/my-ontology.com#exampleObjectProperty -->
+    <!-- https://knowledge.c-innovationhub.com/my-ontology#exampleObjectProperty -->
 
 
-    <owl:ObjectProperty rdf:about="https:/my-ontology.com#exampleObjectProperty"/>
+    <owl:ObjectProperty rdf:about="https://knowledge.c-innovationhub.com/my-ontology#exampleObjectProperty"/>
     
 
 
@@ -125,10 +125,10 @@
     
 
 
-    <!-- https:/my-ontology.com#exampleDatatypeProperty -->
+    <!-- https://knowledge.c-innovationhub.com/my-ontology#exampleDatatypeProperty -->
 
 
-    <owl:DatatypeProperty rdf:about="https:/my-ontology.com#exampleDatatypeProperty"/>
+    <owl:DatatypeProperty rdf:about="https://knowledge.c-innovationhub.com/my-ontology#exampleDatatypeProperty"/>
     
 
 
@@ -144,10 +144,10 @@
     
 
 
-    <!-- https:/my-ontology.com#exampleClass -->
+    <!-- https://knowledge.c-innovationhub.com/my-ontology#exampleClass -->
 
 
-    <owl:Class rdf:about="https:/my-ontology.com#exampleClass"/>
+    <owl:Class rdf:about="https://knowledge.c-innovationhub.com/my-ontology#exampleClass"/>
     
 
 
@@ -163,11 +163,11 @@
     
 
 
-    <!-- https:/my-ontology.com#exampleIndividual -->
+    <!-- https://knowledge.c-innovationhub.com/my-ontology#exampleIndividual -->
 
 
-    <owl:NamedIndividual rdf:about="https:/my-ontology.com#exampleIndividual">
-        <rdf:type rdf:resource="https:/my-ontology.com#exampleClass"/>
+    <owl:NamedIndividual rdf:about="https://knowledge.c-innovationhub.com/my-ontology#exampleIndividual">
+        <rdf:type rdf:resource="https://knowledge.c-innovationhub.com/my-ontology#exampleClass"/>
     </owl:NamedIndividual>
 </rdf:RDF>
 

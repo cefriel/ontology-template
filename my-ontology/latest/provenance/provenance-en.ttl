@@ -2,7 +2,7 @@
 @prefix dc: <http://purl.org/dc/terms/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix : <> .
-<https:/my-ontology.com/1.0.0> a prov:Entity;
+<https://knowledge.c-innovationhub.com/my-ontology/1.0.0> a prov:Entity;
 	 dc:title "My Ontology";
 	 prov:wasAttributedTo :agent0;
 	 prov:wasAttributedTo :agent1;
