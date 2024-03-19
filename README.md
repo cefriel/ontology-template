@@ -19,10 +19,12 @@ Download release JAR from [here](https://github.com/dgarijo/Widoco/releases) and
 
 3. Execute the `sh run-onto.sh my-ontology x.y.z` script providing as argument the correct version number.
 
-4. Git commit and push
+4. Edit the documentation in the [sections](.my-ontology/sections) folder
 
-5. Enable GitHub Pages to host the ontology
+5. Git commit and push
 
-6. Configure a webserver by using the provided [.htaccess](.my-ontology/.htaccess) file.
+6. Enable GitHub Pages to host the ontology
+
+7. Configure a webserver by using the provided [.htaccess](.my-ontology/.htaccess) file.
 
 
