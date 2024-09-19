@@ -10,7 +10,7 @@ Repository for My Ontology.
 
 Create a repository starting from this template repository. Rename the folders and the repository accordingly to the identifier of the ontology. The new repository name should be used to replace `my-ontology` in all the places.
 
-1. The RDF files describing the controlled vocabularies can be defined manually or by modifying the [my-ontology.owl](.my-ontology/my-ontology.owl) file.
+1. The RDF files describing the ontology can be defined manually or by modifying the [my-ontology.owl](.my-ontology/my-ontology.owl) file.
 
 2. Download the Widoco tool as discussed below and put the JAR in the `tools` folder to automatise its execution through the `run-onto.sh` script. A Java installation is required.
 
