@@ -23,8 +23,14 @@ Download release JAR from [here](https://github.com/dgarijo/Widoco/releases) and
 
 5. Git commit and push
 
-6. Enable GitHub Pages to host the ontology
+6.  Enable GitHub Pages to host the ontology
 
 7. Configure a webserver by using the provided [.htaccess](.my-ontology/.htaccess) file.
+
+## License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 
